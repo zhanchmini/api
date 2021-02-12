@@ -1,6 +1,6 @@
 {
     "name": "zhanchmini/api",
-    "description": "zhanch mini api",
+    "description": "Minimal development of multiple development api",
     "type": "library",
     "license": "MIT",
     "authors": [
